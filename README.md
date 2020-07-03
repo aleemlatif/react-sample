@@ -1,7 +1,5 @@
 # React / Node Todo Demo
 
-This demo shows the core functionality of [Visual Studio Code](https://code.visualstudio.com)
-for Build 2016 session workshop.
 
 ![todo demo](/media/todo_demo.gif)
 
@@ -9,7 +7,7 @@ for Build 2016 session workshop.
 
 ```bash
 # clone repo
-git clone https://github.com/Microsoft/vscode-react-sample.git react-todo
+git clone https://github.com/aleemlatif/react-sample.git
 
 # navigate to repo
 cd react-todo
