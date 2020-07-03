@@ -1,8 +1,6 @@
 # React / Node Todo Demo
 
 
-![todo demo](/media/todo_demo.gif)
-
 ## Getting Started
 
 ```bash
@@ -23,7 +21,6 @@ npm install
 npm run serve
 ```
 
-Instead you can also debug in Visual Studio Code with pressing the <kbd>f5</kbd> key.
 
 **Frontend**
 
@@ -32,8 +29,6 @@ Instead you can also debug in Visual Studio Code with pressing the <kbd>f5</kbd>
 npm run dev
 ```
 
-Run from Visual Studio Code by executing command (with <kbd>f1</kbd> to open command palette) 
-`Run Task` and selecting `dev`.
 
 **Database**
 
