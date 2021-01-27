@@ -21,14 +21,12 @@ npm install
 npm run serve
 ```
 
-
 **Frontend**
 
 ```bash
 # run in terminal
 npm run dev
 ```
-
 
 **Database**
 
