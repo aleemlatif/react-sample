@@ -8,7 +8,7 @@
 git clone https://github.com/aleemlatif/react-sample.git
 
 # navigate to repo
-cd react-todo
+cd react-sample-app
 
 # install deps
 npm install
@@ -33,7 +33,7 @@ npm run dev
 **Database**
 
 No configuration should be necessary necessary. Data backend is simply a json file called `todos.json` in `data/`.
-If you run into any issues make sure `todos.json` has the following inside before starting the 
+If you run into any issues make sure `todos.json` has the following inside before starting the
 server. This will become more robust overtime.
 
 ```json
