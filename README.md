@@ -1,4 +1,4 @@
-# React / Node Todo Demo
+# React / Node Sample Demo App
 
 
 ## Getting Started
